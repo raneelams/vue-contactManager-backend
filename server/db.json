@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdwnHI",
+      "name": "Brad Gibson",
+      "company": "YouTube",
+      "email": "brad@gmial.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://static.vecteezy.com/system/resources/previews/019/896/008/original/male-user-avatar-icon-in-flat-design-style-person-signs-illustration-png.png",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxekbI",
+      "name": "Glenda Kim",
+      "company": "Friend",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880020991",
+      "photo": "https://cdn-icons-png.flaticon.com/512/4140/4140039.png",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Vladeen Min Gibson",
+      "company": "Service",
+      "email": "vladeen@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://cdn-icons-png.flaticon.com/256/4140/4140074.png",
+      "groupId": "4"
+    },
+    {
+      "id": "kLt-bJF",
+      "name": "Ramesh Neelamsetti",
+      "company": "TCS",
+      "email": "Rameshneelamsetti64@gmail.com",
+      "title": "Software Engineer",
+      "mobile": 9573738762,
+      "photo": "https://i.pinimg.com/280x280_RS/18/67/1e/18671e9d34a5ea74c0e0fc798c962402.jpg",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
